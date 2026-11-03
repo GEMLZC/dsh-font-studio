@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Font Studio">
+  <defs>
+    <linearGradient id="fsStroke" x1="6" y1="6" x2="42" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d7cff"/>
+      <stop offset="0.55" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="42" height="42" rx="12" fill="none" stroke="url(#fsStroke)" stroke-width="2"/>
+  <path d="M15 32 L22 16 L29 32" fill="none" stroke="url(#fsStroke)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18.4 26.4 H25.6" fill="none" stroke="url(#fsStroke)" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M33 15.5 V18 M33 22 V24.5 M33 28.5 V31" stroke="#ec4899" stroke-width="2.2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,6 @@
+# Font Studio (dsh-font-studio) profile patch layer.
+# The bundle inserts one Loader entry; the browser half is picked up from the
+# package's `dsh.client` declaration by dsh-client-modules.
+- insert:
+    - id: font-studio
+      name: 'dsh-font-studio'

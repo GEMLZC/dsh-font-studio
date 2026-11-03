@@ -1,0 +1,7 @@
+# Keep line endings exactly as authored: the client bundle is plain JS shipped
+# as-is, and a CRLF rewrite would show up as a whole-file diff on every checkout.
+* text=auto eol=lf
+*.svg text eol=lf
+*.png binary
+*.jpg binary
+*.webp binary

@@ -1,0 +1,14 @@
+# Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+
+# Harness / editor scratch
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.local
+
+# Build artefacts
+*.tgz
